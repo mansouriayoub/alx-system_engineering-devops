@@ -25,4 +25,4 @@ The list of projects:
 
 ## Author :black_nib:
 
-* Ayoub Mansouri <[4ouR04](https://github.com/mansouriayoub)>
+* Ayoub Mansouri <[mansouriayoub](https://github.com/mansouriayoub)>
