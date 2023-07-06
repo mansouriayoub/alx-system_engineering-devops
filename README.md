@@ -2,9 +2,7 @@
 ![Repo size](https://img.shields.io/github/repo-size/mansouriayoub/alx-system_engineering-devops)
 ![Latest commit](https://img.shields.io/github/last-commit/mansouriayoub/alx-system_engineering-devops/main?style=round-square)
 
-This repository contains programs written for the system engineering and DevOps
-track at ALX School. In these projects, I worked with Bash and practiced
-writing Bash scripts to automate tasks.
+This repository contains projects for the system engineering and DevOps tasks at ALX SE.
 The list of projects:
 
 * [0x00. Shell, basics](./0x00-shell_basics)
