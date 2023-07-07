@@ -6,7 +6,8 @@ This repository contains projects for the system engineering and DevOps tasks at
 The list of projects:
 
 * [0x00. Shell, basics](./0x00-shell_basics)
+* [0x01. Shell, permissions](./0x01-shell_permissions)
 
-## Author :black_nib:
+## Author :white_nib:
 
 * Ayoub Mansouri <[mansouriayoub](https://github.com/mansouriayoub)>
